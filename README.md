@@ -39,3 +39,10 @@ The objective of this task is to **set up monitoring for a cloud-based applicati
 - Connected via SSH and installed the agent using the following command:
   ```bash
   sudo yum install amazon-cloudwatch-agent -y
+
+*output
+![Image](https://github.com/user-attachments/assets/e66fe25d-2c54-490b-962b-0fdcb5c7a446)
+
+![Image](https://github.com/user-attachments/assets/3087ea36-3a2e-4575-8d4e-3ae64b226092)
+
+![Image](https://github.com/user-attachments/assets/a9edc419-eb12-4f8d-9278-5388c4c4c496)
